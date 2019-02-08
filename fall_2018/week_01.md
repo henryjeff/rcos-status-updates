@@ -1,22 +1,20 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Planned out the stats page with my Sub-Group. As the lead we figured out the most
+important statistics to display and how to display them.  We decided on using
+a doughnut chart to show all the Assignments you have to do and have done along
+with the, all the amount of time you have spent on every class.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Implement the statistics page and route into LATE. This will require modifying
+the backend and making new components for the page itself. This will require
+importing a new vue component for the charts so we can display the data nicely.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+No
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+None
