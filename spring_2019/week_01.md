@@ -1,24 +1,20 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+Planned out the stats page with my Sub-Group. As the lead we figured out the most
+important statistics to display and how to display them.  We decided on using
+a doughnut chart to show all the Assignments you have to do and have done along
+with the, all the amount of time you have spent on every class.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+Implement the statistics page and route into LATE. This will require modifying
+the backend and making new components for the page itself. This will require
+importing a new vue component for the charts so we can display the data nicely.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+No
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+None
